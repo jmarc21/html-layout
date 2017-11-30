@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+}
+.header{
+    height: 100px;
+    width: 100%;
+    background-color: lightgray;
+}
+.littleblue{
+    height: 80px;
+    width: 80px;
+    background-color: blue;
+    display: inline-block;
+    margin: 10px 30px;
+}
+.text{
+    margin: 40px;
+}
+p{
+    font-family: sans-serif;
+}
+.box{
+    height: 100px;
+    width: 100%;
+}
+.bluebar{
+    background-color: rgb(107, 107, 245);
+}
+.turqbar{
+    background-color: rgb(89, 202, 191);
+}
+.greenbar{
+    background-color:rgb(145, 201, 81);
+}
+.yellbar{
+    background-color: rgb(219, 219, 0);
+}
