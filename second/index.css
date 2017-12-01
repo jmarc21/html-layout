@@ -1,5 +1,5 @@
 .container{
-    width: 575px;
+    width: 200vh;
     margin: 10px;
     padding: 6px;
     border: solid;
@@ -29,14 +29,26 @@
     display: inline-block;
 }
 .borderyell{
-    width: 583px;
-    height: 150px;
+    width: 203vh;
+    height: 200px;
     margin: 10px;
-    border: 5px dotted black;
+    border: 4px dotted black;
 }
-.yellorec{
-    height: 100px;
-    width: 200px;
-    margin: 30px;
-    background-color: rgb(255, 0, 0);
+.yellowrec{
+    height: 42vh;
+    width: 172vh;
+    margin: 40px;
+    background-color: rgb(221, 180, 105);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+h1{
+    height: 45vh;
+    width: 100vh;
+    margin: 10px 0 0 150px ;
+    padding-top: 19vh;
+    text-align: center;
+    border: 1px solid black;
+    box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+    color: blue;
+    letter-spacing: 5px;
 }
